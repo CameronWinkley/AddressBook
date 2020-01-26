@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>Address Book</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <form>
+		First name:<br>32
+                
+                
+                
+                
+                
+                
+                "><br>
+		Last name:<br>
+		<input type="text" name="lastname"><br>
+		Age:<br>
+		<input type="text" name="age"><br>
+		Address:<br>
+		<input type="text" name="address"><br>
+		Gender:<br>
+		<input type="radio" name="gender" value="male" checked> Male<br>
+  		<input type="radio" name="gender" value="female"> Female<br>
+		<input type ="submit" value="submit">
+	</form>
+		
+    </body>
+</html>
