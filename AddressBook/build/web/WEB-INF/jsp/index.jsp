@@ -12,14 +12,8 @@ and open the template in the editor.
     </head>
     <body>
         <form>
-		First name:<br>32
-                
-                
-                
-                
-                
-                
-                "><br>
+		First name:<br>           
+                <input type="text" name="lastname"><br>
 		Last name:<br>
 		<input type="text" name="lastname"><br>
 		Age:<br>
