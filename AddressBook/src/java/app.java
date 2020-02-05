@@ -29,7 +29,7 @@ public class app {
         String gender = input.nextLine();
         
         Address address = new Address(id, fname, lname, street, age, gender);
-        
+        System.out.print(address.toString());
         
     }
     
